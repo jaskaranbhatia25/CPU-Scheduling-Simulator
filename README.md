@@ -1,5 +1,12 @@
+In this program, we will implement a round-robin CPU scheduling simulator. The input to your simulator will be a set of processes and a time slice. Each process will be described by an id, arrival time and CPU burst. Your simulator will simulate RR scheduling on these processes and for each process it will calculate its start time and finish time. Your simulator will also compute a condensed execution sequence of all processes. You will implement your simulator as a function simulate_rr() with the following signature
+
+
 
 # Round Robin CPU Scheduler Simulator - starter code for Assignment 4
+
+
+
+
 
 To compile all code, type:
 ```
